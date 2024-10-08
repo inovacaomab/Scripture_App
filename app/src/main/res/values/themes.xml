@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme -->
+    <style name="Theme.ScriptureApp" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!-- Define custom colors here -->
+    <color name="colorPrimary">#1a237e</color>
+    <color name="colorPrimaryDark">#1a237e</color>
+    <color name="colorAccent">#3364f5</color>
+</resources>
